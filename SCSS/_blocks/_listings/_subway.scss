@@ -12,7 +12,7 @@ Credit to github.com/nothingislost for the inspiration of the "subway line list"
     content: '';
     position: absolute;
     left: 0;
-    border-right: 2px solid red;
+    border-right: 2px solid blue;
     height: calc(100% - (1.5 * var(--editor-font-size)) / 2 - 10px);
     box-sizing: border-box;
     top: calc((1.5 * var(--editor-font-size)) / 2);
@@ -38,7 +38,7 @@ Credit to github.com/nothingislost for the inspiration of the "subway line list"
     content: '';
     position: absolute;
     left: calc(0px - (2 * var(--list-padding)));
-    border-top: 2px solid red;
+    border-top: 2px solid blue;
     height: calc(1.5 * 17.33px);
     width: var(--list-padding);
     top: calc((1.5 * var(--editor-font-size)) / 2);

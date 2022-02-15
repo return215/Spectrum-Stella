@@ -8,7 +8,7 @@ ul::before {
   content: '';
   position: absolute;
   left: 0;
-  border-right: 2px solid red;
+  border-right: 2px solid blue;
   height: calc(100% - (1.5 * var(--editor-font-size)) / 2 - 10px);
   box-sizing: border-box;
   top: calc((1.5 * var(--editor-font-size)) / 2);
